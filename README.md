@@ -1,5 +1,6 @@
 # 20230529_megumisasaki_challenge
 お客様から登録された個人情報を管理できるようにする。
+![トップ画面](homescreen.png)
 
 ## 作成した目的
 -顧客の情報管理のため
@@ -15,7 +16,7 @@ http://localhost
 -laravel 8
 
 ## テーブル設計
-![テーブル設計](Screenshot 2023-05-28 081303.png)
+![テーブル設計](tablescreen.png)
 ## ER図
 ![ER図](Challenge_From_Coachtech.drawio.pdf)
 ## その他の情報
